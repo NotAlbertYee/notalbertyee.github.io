@@ -17,6 +17,12 @@
       { "network": "twitch", "username": "spammingkills", "url": "https://www.twitch.com/spammingkills" }
     ]
   },
+    "economic-interests": [
+    { "name": "Sustainability/Climate Change" },
+    { "name": "Educational Equity" },
+    { "name": "Labour Economics" },
+    { "name": "Health Economics" }
+  ],
   "interests": [
     { "name": "Esports and Gaming within Education" },
     { "name": "Learning Disabilites" },
