@@ -11,8 +11,10 @@
     "profiles": [
       { "network": "github", "username": "notalbertyee", "url": "http://github.com/notalbertyee" },
       { "network": "linkedin", "username": "albert-yee-711468168", "url": "https://www.linkedin.com/in/albert-yee-711468168/" },
+      { "network": "instagram", "username": "albirdyee", "url": "https://www.instagram.com/albirdyee" },
       { "network": "twitter", "username": "spammingkills29", "url": "https://twitter.com/spammingkills29" },
-      { "network": "instagram", "username": "spammingkills", "url": "https://www.instagram.com/spammingkills" }
+      { "network": "instagram", "username": "spammingkills", "url": "https://www.instagram.com/spammingkills" },
+      { "network": "twitch", "username": "spammingkills", "url": "https://www.twitch.com/spammingkills" }
     ]
   },
   "interests": [
@@ -20,7 +22,8 @@
     { "name": "Learning Disabilites" },
     { "name": "AR/VR Development" },
     { "name": "Middle and High School Technology Enrichment" },
-    { "name": "Gaming Communities" }
+    { "name": "Gaming Communities" },
+    { "name": "Broadcast Production" }
   ],
   "skills": [
     {
@@ -29,7 +32,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "GitHub", "X-Code" ]
+      "keywords": [ "MacOS", "Windows 10", "Ubuntu", "GitHub", "X-Code", "OBS" ]
     }
   ],
   "education": [
